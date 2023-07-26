@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">QuizMundoVerde</string>
+    <string name="mundo_verde">Mundo Verde</string>
+    <string name="pergunta_por_completo">Pergunta por completo</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="alternativa_d">Alternativa D</string>
+    <string name="alternativa_c">Alternativa C</string>
+    <string name="alternativa_a">Alternativa A</string>
+    <string name="alternativa_b">Alternativa B</string>
+    <string name="conosco"><u>Entre em Contato</u></string>
+    <string name="em_breve">EM breve</string>
+    <string name="mundoverde">MUNDO VERDE</string>
+    <string name="embreve">EM breve</string>
+    <string name="quiz_sustentabilidade">QUIZ SUSTENTABILIDADE</string>
+    <string name="butaocnt">Enviar</string>
+    <string name="continuar">Continuar</string>
+    <string name="voltar">Voltar</string>
+    <string name="textquest"><font color="#cbcdcc">Conhecimentos necessários:</font> Temas como reciclagem, território brasileiro e muitos outros</string>
+    <string name="dificuldade_intermedi_rio"><font color="#cbcdcc"> Dificuldade:</font> Intermediário</string>
+    <string name="tema_sustentabilidade">Tema: Sustentabilidade</string>
+    <string name="quantidade_de_perguntas_7"><font color="#cbcdcc"> Quantidade de Perguntas:</font> 9</string>
+    <string name="contato">Contato:</string>
+    <string name="n_mero_11_96873_4494"><font color="#cbcdcc">Número:</font> (11)96873-4494</string>
+    <string name="avalie_nos">Avalie-nos</string>
+    <string name="email_jefersonayresaraujo_gmail_com"><font color="#cbcdcc">Email:</font> jefersonayresaraujo@gmail.com</string>
+    <string name="sobre">SOBRE</string>
+    <string name="minha_empresa_foi_criada_para_monstrar_revelar_outras_maneiras_mais_din_micas_de_se_aprender_algo">Minha empresa foi criada para monstrar/revelar outras maneiras mais dinâmicas de se aprender algo.</string>
+    <string name="pensando_nessa_deia_criamos_diversos_jogos_sites_interativos_incluindo_esse_que_voc_est_neste_exato_momento">Pensando nessa ídeia criamos diversos jogos, sites interativos, incluindo esse que você está neste exato momento...</string>
+    <string name="como_forma_de_auxiliar_o_movimento_de_sustentabilidade_e_reutiliza_o_de_recursos_eu_criei_um_aplicativo_de_perguntas_e_respostas_o_qual_far_voc_ser_desafiado_cada_pergunta">Como forma de auxiliar o movimento de sustentabilidade e reutilização de recursos, nos criamos um aplicativo de perguntas e respostas, o qual fará você ser desafiado à cada pergunta de maneira que auxilie você a entender mais sobre o nosso mundo verde.</string>
+
+</resources>

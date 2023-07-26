@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mundo_verde">Mundo Verde</string>
+    <string name="pergunta_por_completo">Pergunta por completo</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="alternativa_d">Alternativa D</string>
+    <string name="alternativa_a">Alternativa A</string>
+    <string name="alternativa_b">Alternativa B</string>
+    <string name="em_breve">EM breve</string>
+</resources>

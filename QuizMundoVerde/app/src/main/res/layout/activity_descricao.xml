@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo_degrade"
+    android:padding="20sp"
+    tools:context=".Descricao">
+
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="@string/tema_sustentabilidade"
+        android:textColor="@color/cinza"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/description1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/description"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70dp"
+        android:text="@string/textquest"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        tools:ignore="TextContrastCheck" />
+
+    <TextView
+        android:id="@+id/description2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/description1"
+        android:layout_marginTop="60sp"
+        android:text="@string/dificuldade_intermedi_rio"
+        android:textColor="@color/black"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/description3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/description2"
+        android:layout_marginTop="60sp"
+        android:text="@string/quantidade_de_perguntas_7"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        />
+
+
+    <Button
+        android:id="@+id/voltardesc"
+        android:layout_width="150sp"
+        android:layout_height="100sp"
+        android:layout_below="@id/description3"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="22dp"
+
+        android:layout_marginTop="137dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="125dp"
+        android:background="@drawable/background_button"
+        android:padding="0dp"
+        android:text="@string/continuar"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        tools:ignore="VisualLintButtonSize,TextContrastCheck" />
+
+
+</RelativeLayout>

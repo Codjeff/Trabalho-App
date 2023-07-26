@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#348f86</color>
+    <color name="vinho">#77193e</color>
+    <color name="crhome">#3CB371</color>
+    <color name="tthome">#008080</color>
+    <color name="cinza">#cbcdcc</color>
+    <color name="verdeazul1">#136B69</color>
+    <color name="verdeazul2">#2A836B</color>
+    <color name="verdeazul3">#499C70</color>
+    <color name="verdeazul4">#024053</color>
+
+    <!-- degrade -->
+    <color name="verdeazul11">#136B69</color>
+    <color name="verdeazul22">#2A836B</color>
+    <color name="verdeazul33">#499C70</color>
+    <color name="verdeazul44">#024053</color>
+
+
+</resources>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fundo_degrade"
+    android:padding="20dp"
+    tools:context=".Sobremain"
+    tools:ignore="ExtraText">
+
+    <TextView
+        android:id="@+id/ttsobre"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="@string/sobre"
+        android:textColor="@color/tthome"
+        android:textSize="30sp"
+        tools:ignore="TextContrastCheck" />
+
+    <ImageView
+        android:id="@+id/element"
+        android:layout_width="50sp"
+        android:layout_height="100sp"
+        app:srcCompat="@android:drawable/ic_menu_revert"
+        android:importantForAccessibility="no" />
+
+    <TextView
+        android:id="@+id/txt1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/element"
+        android:text="@string/minha_empresa_foi_criada_para_monstrar_revelar_outras_maneiras_mais_din_micas_de_se_aprender_algo"
+        android:textAlignment="gravity"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:layout_marginTop="30sp"
+        />
+
+    <TextView
+        android:id="@+id/txt2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/element"
+        android:layout_marginTop="149dp"
+        android:text="@string/pensando_nessa_deia_criamos_diversos_jogos_sites_interativos_incluindo_esse_que_voc_est_neste_exato_momento"
+        android:textAlignment="gravity"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/txt3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/element"
+        android:layout_marginTop="270dp"
+        android:text="@string/como_forma_de_auxiliar_o_movimento_de_sustentabilidade_e_reutiliza_o_de_recursos_eu_criei_um_aplicativo_de_perguntas_e_respostas_o_qual_far_voc_ser_desafiado_cada_pergunta"
+        android:textAlignment="gravity"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        tools:ignore="VisualLintLongText" />
+</RelativeLayout>
